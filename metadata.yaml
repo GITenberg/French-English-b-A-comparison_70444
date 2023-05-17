@@ -1,0 +1,36 @@
+_repo: French-English-b-A-comparison_70444
+_version: 0.0.1
+alternative_title: 'French and English :  A comparison'
+creator:
+  author:
+    agent_name: Hamerton, Philip Gilbert
+    alias: Hamerton, P. G. (Philip Gilbert)
+    birthdate: 1834
+    deathdate: 1894
+    gutenberg_agent_id: '2787'
+    url: http://www.gutenberg.org/2009/agents/2787
+    wikipedia: https://en.wikipedia.org/wiki/Philip_Gilbert_Hamerton
+description: Based on a series of seven articles published under present title in
+  the Atlantic Monthly, 1886-87.
+gutenberg_issued: '2023-04-02'
+identifiers:
+  gutenberg: '70444'
+language: en
+pgterms:marc905: 20170605111815hamerton
+pgterms:marc906: '1889'
+pgterms:marc907: GB
+production_note: Henry Flower, Krista Zaleski and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive/Canadian Libraries)
+publication_note: '  $aUnited Kingdom :$bMacmillan and Co., $c1889.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'National characteristics, English'
+- !lcsh 'National characteristics, French'
+- !lcc 'DA'
+- !lcc 'DC'
+- GITenberg
+title: 'French & English : $b A comparison'
+url: http://www.gutenberg.org/ebooks/70444
