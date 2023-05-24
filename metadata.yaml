@@ -1,6 +1,9 @@
 _repo: French-English-b-A-comparison_70444
 _version: 0.1.0
 alternative_title: 'French and English :  A comparison'
+covers:
+- cover_type: archival
+  image_path: 70444-h/images/cover.jpg
 creator:
   author:
     agent_name: Hamerton, Philip Gilbert
@@ -12,6 +15,8 @@ creator:
     wikipedia: https://en.wikipedia.org/wiki/Philip_Gilbert_Hamerton
 description: Based on a series of seven articles published under present title in
   the Atlantic Monthly, 1886-87.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70444#French-English-b-A-comparison
 gutenberg_issued: '2023-04-02'
 identifiers:
   gutenberg: '70444'
